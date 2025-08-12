@@ -1,0 +1,2 @@
+##Prior knowledge about transistors
+Transistors are basically switches allowing the current to flow or not. Yet compared to mechanical switches, the two states (open and closed) are controlled by another current (bipolar transistor) or by tension (field effect transistor). Some advantages of such switches are size where mechanical switches cannot be miniaturised to an extent, transistors can. Another advantage is that those switches are quicker than mechanical ones allowing us faster compute. 
